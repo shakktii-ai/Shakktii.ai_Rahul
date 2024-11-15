@@ -522,7 +522,7 @@ export default function Home() {
         <p className="text-md font-medium mt-6">
           मतदानाच्या दिवशी सुद्धा <span className="font-bold">तुतारी</span> या
           चिन्हासमोरील बटन दाबून{" "}
-          <span className="font-bold">श्री.राहुल तानाजी कालंदे</span> यांना प्रचंड मतांनी
+          <span className="font-bold">श्री.राहुल तानाजी कलाटे</span> यांना प्रचंड मतांनी
           विजयी करा !
         </p>
         <div className="flex justify-center mt-6 ">
